@@ -1,0 +1,3 @@
+ConfigCalculatrice = {}
+
+ConfigCalculatrice.Command = "Calculatrice"
